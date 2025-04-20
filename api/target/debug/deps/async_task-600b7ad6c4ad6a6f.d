@@ -1,0 +1,11 @@
+D:\projects\dcbot\api\target\debug\deps\libasync_task-600b7ad6c4ad6a6f.rmeta: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs
+
+D:\projects\dcbot\api\target\debug\deps\async_task-600b7ad6c4ad6a6f.d: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs
+
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs:

@@ -1,0 +1,1 @@
+D:\projects\dcbot\api\target\release\api.exe: D:\projects\dcbot\api\src\db.rs D:\projects\dcbot\api\src\handlers.rs D:\projects\dcbot\api\src\main.rs D:\projects\dcbot\api\src\models.rs D:\projects\dcbot\api\src\routes.rs

@@ -1,0 +1,1 @@
+fn(axum::extract::Path<i64>, State<Arc<Pool<Postgres>>>) -> impl Future<Output = axum::Json<std::option::Option<Player>>> {handlers::get_player}

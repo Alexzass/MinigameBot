@@ -1,0 +1,13 @@
+./api/target/
+
+./env
+.env
+
+.DS_Store
+.idea/
+.vscode/
+
+dist/
+build/
+
+.git/config.local

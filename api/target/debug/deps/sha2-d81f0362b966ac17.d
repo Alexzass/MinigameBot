@@ -1,0 +1,13 @@
+D:\projects\dcbot\api\target\debug\deps\libsha2-d81f0362b966ac17.rmeta: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs
+
+D:\projects\dcbot\api\target\debug\deps\sha2-d81f0362b966ac17.d: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs
+
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\lib.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\core_api.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\consts.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\soft.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha256\x86.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\soft.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sha2-0.10.8\src\sha512\x86.rs:

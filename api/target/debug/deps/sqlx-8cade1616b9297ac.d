@@ -1,0 +1,12 @@
+D:\projects\dcbot\api\target\debug\deps\libsqlx-8cade1616b9297ac.rmeta: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\mod.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros\mod.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\ty_match.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\spec_error.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.md C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros/test.md C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\install_drivers_note.md
+
+D:\projects\dcbot\api\target\debug\deps\sqlx-8cade1616b9297ac.d: C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\mod.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros\mod.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\ty_match.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\spec_error.rs C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.md C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros/test.md C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\install_drivers_note.md
+
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\mod.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros\mod.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\ty_match.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\spec_error.rs:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\lib.md:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\macros/test.md:
+C:\Users\Alexaz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sqlx-0.8.3\src\any\install_drivers_note.md:

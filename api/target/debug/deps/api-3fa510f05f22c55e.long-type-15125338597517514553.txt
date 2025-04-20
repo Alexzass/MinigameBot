@@ -1,0 +1,1 @@
+fn(Extension<Arc<AppState>>, {type error}) -> impl std::future::Future<Output = Result<{type error}, axum::http::StatusCode>> {handlers::create_player}

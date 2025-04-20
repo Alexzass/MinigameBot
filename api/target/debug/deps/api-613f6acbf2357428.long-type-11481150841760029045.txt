@@ -1,0 +1,1 @@
+fn(axum::extract::Path<i64>, lettre::transport::smtp::extension::Extension) -> impl std::future::Future<Output = axum::Json<std::option::Option<Player>>> {handlers::get_player}

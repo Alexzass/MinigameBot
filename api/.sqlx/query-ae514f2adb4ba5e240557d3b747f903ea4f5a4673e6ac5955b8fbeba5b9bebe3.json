@@ -1,0 +1,58 @@
+{
+  "db_name": "PostgreSQL",
+  "query": "SELECT * FROM players WHERE user_id = $1",
+  "describe": {
+    "columns": [
+      {
+        "ordinal": 0,
+        "name": "id",
+        "type_info": "Int8"
+      },
+      {
+        "ordinal": 1,
+        "name": "user_id",
+        "type_info": "Int8"
+      },
+      {
+        "ordinal": 2,
+        "name": "state",
+        "type_info": "Text"
+      },
+      {
+        "ordinal": 3,
+        "name": "server_id",
+        "type_info": "Int8"
+      },
+      {
+        "ordinal": 4,
+        "name": "highscore_champs_name",
+        "type_info": "Int8"
+      },
+      {
+        "ordinal": 5,
+        "name": "highscore_items_cost",
+        "type_info": "Int8"
+      },
+      {
+        "ordinal": 6,
+        "name": "highscore_items_name",
+        "type_info": "Int8"
+      }
+    ],
+    "parameters": {
+      "Left": [
+        "Int8"
+      ]
+    },
+    "nullable": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "hash": "ae514f2adb4ba5e240557d3b747f903ea4f5a4673e6ac5955b8fbeba5b9bebe3"
+}
