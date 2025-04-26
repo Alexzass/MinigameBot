@@ -1,1 +1,0 @@
-fn(axum::extract::Path<i64>, Arc<{type error}, {type error}>, {type error}) -> impl std::future::Future<Output = axum::Json<std::option::Option<Player>>> {handlers::get_player}

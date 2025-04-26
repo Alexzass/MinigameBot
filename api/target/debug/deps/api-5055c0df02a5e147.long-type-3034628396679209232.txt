@@ -1,1 +1,0 @@
-fn(axum::Json<Player>, State<Arc<Pool<Postgres>>>) -> impl Future<Output = axum::Json<std::string::String>> {handlers::update_player}

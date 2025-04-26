@@ -1,1 +1,0 @@
-fn(axum::extract::Path<i64>, State<Arc<Pool<Postgres>>>) -> impl Future<Output = axum::Json<Vec<Player>>> {handlers::get_players_by_server}

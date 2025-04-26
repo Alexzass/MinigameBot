@@ -1,1 +1,0 @@
-fn(Arc<AppState>, axum::Json<Player>) -> impl std::future::Future<Output = Result<axum::Json<std::string::String>, axum::http::StatusCode>> {handlers::create_player}

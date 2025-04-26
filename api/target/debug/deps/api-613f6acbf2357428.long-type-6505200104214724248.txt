@@ -1,1 +1,0 @@
-fn(State<Pool<Postgres>>, {type error}, axum::Json<Player>) -> impl std::future::Future<Output = Result<axum::Json<std::string::String>, StatusCode>> {handlers::create_player}

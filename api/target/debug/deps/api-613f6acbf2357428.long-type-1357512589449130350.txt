@@ -1,1 +1,0 @@
-fn(axum::extract::Path<i64>, Extension<Arc<AppState>>, axum::Json<dtos::UpdatePlayerDto>) -> impl std::future::Future<Output = Result<axum::Json<std::string::String>, axum::http::StatusCode>> {handlers::update_player}
