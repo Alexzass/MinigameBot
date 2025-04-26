@@ -2,7 +2,7 @@ use async_trait::async_trait;
 use crate::{dtos::HighscoreType, models::Player};
 use sqlx::PgPool;
 
-pub struct DBClient {
+pub struct DBClient { 
     pub pool: PgPool
 }
 

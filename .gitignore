@@ -1,6 +1,5 @@
-./api/target/
+api/target/
 
-./env
 .env
 
 .DS_Store
